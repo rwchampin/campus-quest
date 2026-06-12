@@ -5,6 +5,7 @@ import Link from "next/link";
 import heroImg from "@/public/hero.jpg";  
 import Image from "next/image";
 
+
 export default function Home() {
   return (
     <>
